@@ -5,3 +5,4 @@ I'm Satoshi Yoshida, a PhD student in the Department of Physics, the University 
 My research is on
 - Quantum information theory
 - Higher-order quantum transformations
+- Quantum error correction
