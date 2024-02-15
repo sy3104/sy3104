@@ -13,4 +13,4 @@ with the techniques based on
 
 I am sharing the computational codes used for my research, mainly based on semidefinite programming.
 
-For more detail about my research, please check my [personal website](https://sy3104.github.io/).
+For more detail about my research, please check [my personal website](https://sy3104.github.io/).
