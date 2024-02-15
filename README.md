@@ -6,6 +6,7 @@ My research is on
 - Quantum information theory
 - Higher-order quantum transformations
 - Quantum error correction
+
 with the techniques based on
 - Semidefinite programming
 - Group theory, Representation theory
