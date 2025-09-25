@@ -12,7 +12,7 @@ with the techniques based on
 - Group theory, Representation theory
 - Stabilizer simulations
 
-I am sharing the computational codes used for my research, mainly based on semidefinite programming.
+I am sharing the computational codes used for my research.
 
 For more details about my research, please check [my personal website](https://sy3104.github.io/), or the following links:
 
